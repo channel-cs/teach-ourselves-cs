@@ -18,10 +18,11 @@
 
 #### 진행 방식
 
-1. `main` 브랜치를 베이스로, 닉네임을 이름으로 하는 브랜치를 생성해주세요. 
-2. 닉네임으로 디렉토리를 생성하고, 해당 디렉토리 하위로 공부한 내용(마크다운 등)을 `main` 브랜치를 타겟으로 PR로 작성합니다.
-3. 공부한 내용에 대해 **2명에게 리뷰**를 받습니다. 리뷰어는 그 주에 공지됩니다.
-4. 리뷰가 완료되면 Squash merge 합니다.
+1. `main` 브랜치를 베이스로, 닉네임을 이름으로 하는 브랜치를 생성해주세요.
+2. [`cs:app/`](./cs%3Aapp/) 의 닉네임 디렉토리 하위로 공부한 내용(마크다운 등)을 추가합니다.
+3. `main` 브랜치를 타겟으로 PR을 작성합니다.
+4. 공부한 내용에 대해 **2명에게 리뷰**를 받습니다. 리뷰어는 그 주에 공지됩니다.
+5. 리뷰가 완료되면 Squash merge 합니다.
 
 |날짜|공부할 내용|
 |------|---|
@@ -29,5 +30,5 @@
 
 #### References
 
-- http://csapp.cs.cmu.edu/3e/labs.html
-- https://github.com/KUR-creative/malloclab
+- <http://csapp.cs.cmu.edu/3e/labs.html>
+- <https://github.com/KUR-creative/malloclab>
