@@ -14,7 +14,7 @@
 
 ### 진행 방식
 
-- 매주 [강의](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)를 1강씩 시청합니다.
+- 매주 [강의](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)를 1강씩 학습합니다.
 - 강의의 범위에 해당하는 책의 문제 풀이를 진행합니다.
 - 매주 1회 모여 해당 주차에 학습한 내용에 대해 논의하고 질문하는 시간을 가집니다.
 - (권장) 매일 30분, 시간을 내어 같이 학습하는 자리를 가집니다.
